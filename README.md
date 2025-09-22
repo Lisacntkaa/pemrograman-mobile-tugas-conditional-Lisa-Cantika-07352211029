@@ -20,8 +20,5 @@ Cara Menjalankan Program
 2. running diterminal
 3. Masukkan skor ujian (0–100) sesuai instruksi di terminal.
 4. Program akan menampilkan skor dan grade Anda.
-<<<<<<< HEAD
 5. jadi dehh
-=======
-5. jadi dehh
->>>>>>> 5ee3a42a351d0c45797b744e2da36fd695c3a134
+
